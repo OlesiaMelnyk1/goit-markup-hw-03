@@ -64,12 +64,6 @@ body {
   background-color: var(--primary-bg-color);
 }
 
-.container.nav-menu {
-  margin-left: 0;
-  margin-right: 0;
-  max-width: 100%;
-}
-
 .nav-menu {
   display: flex;
   align-items: center;
